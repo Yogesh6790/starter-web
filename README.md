@@ -4,10 +4,10 @@
 This is a simple project showinghow to use Git and GitHub
 
 ##PURPOSE
-Adding content under purpose
+This section describes the purpose of the project.
 
 ##DEPLOYMENT
-Adding content under purpose
+This section depicts how to deploy the project.
 
 ##HOW TO CONTRIBUTE
 Adding content
