@@ -11,3 +11,6 @@ Content for deployment
 
 ##HOW TO CONTRIBUTE
 Contribution content
+
+##COPYRIGHT
+this is copyright section
