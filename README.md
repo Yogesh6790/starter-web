@@ -2,6 +2,7 @@
  
  ##INTRODUCTION
 This is a simple project showinghow to use Git and GitHub
+Adding more content
 
 ##PURPOSE
 This section describes the purpose of the project.
