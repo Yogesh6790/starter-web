@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ##COPYRIGHT
 Copyright information
+
+##HOW TO CONTRIBUTE
+
