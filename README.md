@@ -10,3 +10,4 @@ This section describes the purpose of the project.
 Content for deployment
 
 ##HOW TO CONTRIBUTE
+Contribution content
