@@ -7,5 +7,6 @@ This is a simple project showinghow to use Git and GitHub
 This section describes the purpose of the project.
 
 ##DEPLOYMENT
+Content for deployment
 
 ##HOW TO CONTRIBUTE
