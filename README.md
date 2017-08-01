@@ -10,7 +10,7 @@ This section describes the purpose of the project.
 Content for deployment
 
 ##HOW TO CONTRIBUTE
-Please fork the repository and issue pull request for review
+Please fork the repository and issue pull request for review.Okay
 
 ##COPYRIGHT
 this is copyright section
