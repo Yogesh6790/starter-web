@@ -1,14 +1,16 @@
-# Starter Web Repo
+#STARTER WEB PROJECT
+ 
+ ##INTRODUCTION
+This is a simple project showinghow to use Git and GitHub
 
-This repository is for showing how Git and GitHub work. Adding a line for rebasing example, more changes from my feature branch too.
+##PURPOSE
+This section describes the purpose of the project.
 
-## Purpose
-
-Sample website with plenty of files for demos
-
-
-##COPYRIGHT
-Copyright information
+##DEPLOYMENT
+Content for deployment
 
 ##HOW TO CONTRIBUTE
+Please fork the repository and issue pull request for review
 
+##COPYRIGHT
+this is copyright section
